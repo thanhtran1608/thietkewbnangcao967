@@ -1,0 +1,16 @@
+.card{
+   margin-left: 20px;
+    margin-right: 20px;
+}
+.card-header{
+   background-color: #007bff;
+    color: white;
+}
+.progress{
+    margin-right: 20px;
+     margin-left: 20px;
+      margin-top: 10px; 
+}
+.progress-bar{
+    width:100%
+}
